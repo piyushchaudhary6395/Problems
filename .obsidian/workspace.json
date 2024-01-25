@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "12bb85e694cadaef",
+    "id": "2919a495e9bd94c9",
     "type": "split",
     "children": [
       {
-        "id": "96f0a0731720886a",
+        "id": "de0bb710836e22a7",
         "type": "tabs",
         "children": [
           {
-            "id": "741e422647323bd0",
+            "id": "78ba7fdae03e64c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2290d5f30b751c39",
+    "id": "7da88f9e70b30218",
     "type": "split",
     "children": [
       {
-        "id": "22582f4317d45ad6",
+        "id": "4e6c11d4648ff8df",
         "type": "tabs",
         "children": [
           {
-            "id": "fc94993d703404f6",
+            "id": "96b8d05145c797f0",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "9060ea8a7572cbf4",
+            "id": "ec4d0a46ef999cf9",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "fe648d39d20e5efd",
+            "id": "a5c7acfd3d312549",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,15 +72,15 @@
     "width": 300
   },
   "right": {
-    "id": "1eb4b0eb58bef1f0",
+    "id": "7472ca69a86a5bc5",
     "type": "split",
     "children": [
       {
-        "id": "482951ca3b9bc7da",
+        "id": "ed462775b3363765",
         "type": "tabs",
         "children": [
           {
-            "id": "c8dbf99a24707e2d",
+            "id": "499a82afed4f26c8",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -97,7 +97,7 @@
             }
           },
           {
-            "id": "bcf43b1b960a2a67",
+            "id": "f00fd00b13704fd3",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "3b167e89d3a4d419",
+            "id": "e011735a8da9b12e",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,7 +120,7 @@
             }
           },
           {
-            "id": "457867a8ec62be2b",
+            "id": "af9c0d0282e948cd",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -146,21 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "741e422647323bd0",
+  "active": "96b8d05145c797f0",
   "lastOpenFiles": [
-    "1. Array/Easy/1.Two Sum.md",
-    "1. Array/Easy/12. Sort An Array Of 0, 1, 2's Only.md",
-    "Images",
     "Images/Screenshot (317).png",
+    "Images",
     "1. Array/Easy/9. Missing Number.md",
     "1. Array/Easy/8. Intersection between two array.md",
-    "1. Array/Easy/3. Second Largest.md",
-    "1. Array/Easy/4. Remove Duplicate.md",
     "1. Array/Easy/6. Move zero to end.md",
-    "1. Array/Easy/11. Longest Sub-array with sum k.md",
-    "1. Array/Easy/10. Find element that appears once.md",
-    "1. Array/Easy/7. Union Of Two Array.md",
-    "1. Array/Easy/5. Shift array by n places.md",
-    "1. Array/Easy/2. Largest Number.md"
+    "1. Array/Easy/4. Remove Duplicate.md",
+    "1. Array/Easy/3. Second Largest.md",
+    "1. Array/Easy/12. Sort An Array Of 0, 1, 2's Only.md",
+    "1. Array/Easy/11. Longest Sub-array with sum k.md"
   ]
 }
