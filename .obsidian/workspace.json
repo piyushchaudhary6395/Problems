@@ -1,0 +1,166 @@
+{
+  "main": {
+    "id": "12bb85e694cadaef",
+    "type": "split",
+    "children": [
+      {
+        "id": "96f0a0731720886a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "741e422647323bd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Array/Easy/2. Largest Number.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2290d5f30b751c39",
+    "type": "split",
+    "children": [
+      {
+        "id": "22582f4317d45ad6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc94993d703404f6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9060ea8a7572cbf4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fe648d39d20e5efd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1eb4b0eb58bef1f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "482951ca3b9bc7da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8dbf99a24707e2d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Array/Easy/2. Largest Number.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bcf43b1b960a2a67",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1. Array/Easy/2. Largest Number.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3b167e89d3a4d419",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "457867a8ec62be2b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1. Array/Easy/2. Largest Number.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "741e422647323bd0",
+  "lastOpenFiles": [
+    "1. Array/Easy/1.Two Sum.md",
+    "1. Array/Easy/12. Sort An Array Of 0, 1, 2's Only.md",
+    "Images",
+    "Images/Screenshot (317).png",
+    "1. Array/Easy/9. Missing Number.md",
+    "1. Array/Easy/8. Intersection between two array.md",
+    "1. Array/Easy/3. Second Largest.md",
+    "1. Array/Easy/4. Remove Duplicate.md",
+    "1. Array/Easy/6. Move zero to end.md",
+    "1. Array/Easy/11. Longest Sub-array with sum k.md",
+    "1. Array/Easy/10. Find element that appears once.md",
+    "1. Array/Easy/7. Union Of Two Array.md",
+    "1. Array/Easy/5. Shift array by n places.md",
+    "1. Array/Easy/2. Largest Number.md"
+  ]
+}
